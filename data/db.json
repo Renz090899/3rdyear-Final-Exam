@@ -1,0 +1,82 @@
+{
+  "information": [
+    {
+      "id": 1,
+      "fname": "Renz Mark",
+      "minitial": "B.",
+      "lname": "Olaer",
+      "address": "BXU",
+      "cnumber": "09876543212",
+      "eaddress": "renz@gmail.com",
+      "age": "21",
+      "birthday": "1999-09-08",
+      "course": "BSIT",
+      "notes": "Yawawadadadsajhjkahksahdkjashdkjahkjdad"
+    },
+    {
+      "id": 2,
+      "fname": "Paul",
+      "minitial": "D.",
+      "lname": "Andres",
+      "address": "CVT",
+      "cnumber": "09876543212",
+      "eaddress": "paul@gmail.com",
+      "age": "25",
+      "birthday": "1999-09-08",
+      "course": "BSIT",
+      "notes": "Yawawadadadsajhjkahksahdkjashdkjahkjdad"
+    },
+    {
+      "fname": "Lionel Andres",
+      "minitial": "C.",
+      "lname": "Messi",
+      "address": "Argentina",
+      "cnumber": "09876543212",
+      "eaddress": "messi@gmail.com",
+      "age": "34",
+      "birthday": "1978-02-02",
+      "course": "BSIT",
+      "note": "El leo messi. El leo messi. El leo messi. El leo messi. El leo messi.El leo messi.El leo messi.",
+      "id": 3
+    },
+    {
+      "fname": "Neymar",
+      "minitial": "D.",
+      "lname": "Da Silva",
+      "address": "Brazil",
+      "cnumber": "09876543212",
+      "eaddress": "ney@gmail.com",
+      "age": "28",
+      "birthday": "1985-10-07",
+      "course": "BSCOE",
+      "note": "Hola mi nombres es Neymar, tengo 28 anyos. Hola mi nombres es Neymar, tengo 28 anyos. Hola mi nombres es Neymar, tengo 28 anyos. Hola mi nombres es Neymar, tengo 28 anyos. Hola mi nombres es Neymar, tengo 28 anyos. Hola mi nombres es Neymar, tengo 28 anyos. Hola mi nombres es Neymar, tengo 28 anyos.",
+      "id": 4
+    },
+    {
+      "fname": "LeBron",
+      "minitial": "G.",
+      "lname": "James",
+      "address": "Los Angeles Lakers",
+      "cnumber": "0987654567",
+      "eaddress": "bron@gmail.com",
+      "age": "38",
+      "birthday": "1981-01-01",
+      "course": "BSIT",
+      "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "id": 5
+    },
+    {
+      "fname": "Anthony",
+      "minitial": "G.",
+      "lname": "Davies",
+      "address": "Los Angeles Lakers",
+      "cnumber": "09876567890",
+      "eaddress": "davis@gmail.com",
+      "age": 23,
+      "birthday": "1998-06-30",
+      "course": "BSMA",
+      "note": "Hello my name is Anthony. Hello my name is Anthony. Hello my name is Anthony. Hello my name is Anthony. Hello my name is Anthony. Hello my name is Anthony.",
+      "id": 6
+    }
+  ]
+}
